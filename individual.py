@@ -179,6 +179,7 @@ class Individual:
         plt.xlim([-15, 15])
         plt.ylim([-10, 15])
         plt.grid(color='black')
+        plt.title("Parallel Parking Path by Most Fit Individual")
         plt.show()
 
     """
